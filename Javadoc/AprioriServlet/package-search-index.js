@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"data"},{"l":"database"},{"l":"mining"},{"l":"servlet"},{"l":"utility"}]
