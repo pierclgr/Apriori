@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"client","l":"Apriori"},{"p":"client","l":"Apriori.InvalidInputException"}]
